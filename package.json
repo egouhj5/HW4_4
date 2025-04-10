@@ -1,0 +1,13 @@
+{
+  "name": "hw4_4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "egouhj5",
+  "license": "ISC",
+  "description": "Це дуже класний проєкт де я знайомлюся з Node.js"
+}
